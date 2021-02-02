@@ -51,3 +51,20 @@ All the best and I'll ping you again when I get back - I definitely want to catc
 Best,
 
 Nick
+
+
+Hey Ivan,
+
+It's great that you have a programming background! I'm pretty sure if you want to go into software development, you'd do great there as well, so it's up to you. These days, programming interviews tend to be pretty draining though and to tell you the truth - I'm slowly thinking about just going into analytics or data science in my next role, but I'm not 100% set on  what to do quite yet. Programmers are more in demand, but getting through the door of good companies is getting harder and harder - especially if you're more senior, so anyways - if you ever want to try programming, I can help you out there as well. 
+
+Anyways, I made a few of the books I mentioned along with a small ML 'cheat sheet' I made a while ago available publicly on Google drive, so hopefully it helps and the link is available below:
+
+https://drive.google.com/drive/folders/1XeJtpDu_kGI2OlzRFIjLIKCmWS3pJMd6?usp=sharing
+
+Also FYI - one more great course I forgot to mention is called 'The Analytics Edge' and you can find it here:
+
+https://www.edx.org/course/the-analytics-edge
+
+Anyways - I'm going to add you guys on Skype now, but I know it's late and my apologies!!  I told Anna I'd be available today, but I made it to Toronto late! If you guys ever want to talk - or if you ever need anything at all, feel free to give me a call buddy and hopefully we can catch up soon. If not - I wish you guys the best for 2021!
+
+Nick
